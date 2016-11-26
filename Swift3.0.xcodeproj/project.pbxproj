@@ -194,17 +194,20 @@
 					0C22E0291DE4678700285254 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = BMP99N9345;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 					0C22E03D1DE4678700285254 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = BMP99N9345;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 0C22E0291DE4678700285254;
 					};
 					0C22E0481DE4678700285254 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = BMP99N9345;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 0C22E0291DE4678700285254;
 					};
@@ -512,6 +515,7 @@
 				0C22E0541DE4678700285254 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C22E0551DE4678700285254 /* Build configuration list for PBXNativeTarget "Swift3.0Tests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +524,7 @@
 				0C22E0571DE4678700285254 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C22E0581DE4678700285254 /* Build configuration list for PBXNativeTarget "Swift3.0UITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +533,7 @@
 				0C22E05A1DE4678700285254 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
